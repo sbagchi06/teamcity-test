@@ -8,7 +8,7 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
     "publishConfig":{"registry":"http://34.70.203.124:8082/artifactory/example-repo-local/"}
   },
   "private": true,
