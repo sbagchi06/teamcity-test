@@ -11,7 +11,6 @@
     "e2e": "ng e2e",
     "publishConfig":{"registry":"http://34.70.203.124:8082/artifactory/example-repo-local/"}
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "~6.1.9",
     "@angular/cdk": "~6.4.7",
